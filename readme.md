@@ -1,3 +1,3 @@
-### @ftbl/contact-web
+### @recipher/contact-web
 
 React contact components.
